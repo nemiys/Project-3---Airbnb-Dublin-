@@ -1,4 +1,4 @@
-# <img src="https://flagcdn.com/w40/ie.png" width="30"> ניתוח נתוני Airbnb :דבלין
+# <img src="https://flagcdn.com/w40/ie.png" width="30"> ניתוח נתוני Airbnb דבלין
 # אופטימיזציה של חוויית המשתמש והמרות 
 
 
