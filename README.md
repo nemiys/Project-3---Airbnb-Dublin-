@@ -1,5 +1,5 @@
-# <img src="https://flagcdn.com/w40/ie.png" width="30"> ניתוח נתוני Airbnb דבלין
-#  ניתוח נתוני Airbnb דבלין: אופטימיזציה של חוויית המשתמש והמרות 
+# <img src="https://flagcdn.com/w40/ie.png" width="30"> :ניתוח נתוני Airbnb דבלין
+# אופטימיזציה של חוויית המשתמש והמרות 
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nemiys/Project-3---Airbnb-Dublin-/blob/main/AirbnbDablin.ipynb)
