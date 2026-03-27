@@ -1,4 +1,4 @@
-# 🇮🇪 ניתוח נתוני Airbnb דבלין: אופטימיזציה של חוויית המשתמש והמרות
+#  ניתוח נתוני Airbnb דבלין: אופטימיזציה של חוויית המשתמש והמרות 🇮🇪
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nemiys/Project-3---Airbnb-Dublin-/blob/main/AirbnbDablin.ipynb)
 
